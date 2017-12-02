@@ -1,5 +1,5 @@
 <?php
 
-	echo "teste de texto novo";
+	echo "teste final";
 
 ?>
