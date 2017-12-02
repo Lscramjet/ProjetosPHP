@@ -1,5 +1,5 @@
 <?php
 
-	echo "teste de modificação";
+	echo "teste de texto novo";
 
 ?>
